@@ -1,0 +1,10 @@
+{
+  "name": "audioverse-studio-vercel-edge-neural-tts",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "msedge-tts": "2.0.8"
+  }
+}
